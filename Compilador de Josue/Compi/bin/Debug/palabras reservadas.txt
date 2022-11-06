@@ -1,0 +1,8 @@
+,Inicio,inicio,fuera,Fuera,h
+
+acer,si,Si,Sino,sino,para,Para,
+
+
+// si encuentro ..// comentario sabré 
+que todo esta comentado hasta encontrar
+un salto de linea

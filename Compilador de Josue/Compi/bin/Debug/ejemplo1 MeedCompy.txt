@@ -1,0 +1,13 @@
+  // EJEMPLO 1 DE DECLARACIÓN DE # ///
+
+inicio {
+
+
+
+
+};
+
+
+
+
+

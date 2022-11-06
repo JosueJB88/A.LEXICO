@@ -1,0 +1,30 @@
+// Empieza a programar! ///
+
+
+inicio {
+
+! n 0
+
+! num 3
+
+ciclo ( n = 0 , n < 5 , n ++ : 
+
+si ( n == num ) com {
+
+pantalla Y MIL VECES MÁS |
+?
+
+pantalla TE AMO <3 |
+
+
+solo 
+
+};
+
+
+
+
+
+
+
+

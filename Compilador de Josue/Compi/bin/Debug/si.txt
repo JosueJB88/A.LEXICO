@@ -1,0 +1,28 @@
+  // Empieza a programar! ///
+
+
+inicio {
+
+
+! numero1 24
+
+si ( numero1 == 34 ) com { 
+
+
+} sino si ( numero1 == 4 ) com {     
+
+       // esto es un comentario ///
+
+}
+
+
+};
+
+
+
+
+
+
+
+
+
